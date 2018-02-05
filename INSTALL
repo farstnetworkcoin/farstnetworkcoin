@@ -1,0 +1,9 @@
+Building Farstcoin
+
+See doc/readme-qt.rst for instructions on building Farstcoin Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Farstcoin.
+
+See doc/build-*.txt for instructions on building Farstcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Farstcoin.

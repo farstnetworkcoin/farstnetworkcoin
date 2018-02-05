@@ -1,0 +1,24 @@
+src/*.exe
+src/Farstcoind
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.Farstcoin
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+Farstcoin-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile
